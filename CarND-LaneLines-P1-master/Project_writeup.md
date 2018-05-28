@@ -48,6 +48,8 @@ Ability to join lines is achieved by following steps:
 <figure><img src="Pipeline_images/final_edges.jpeg" width="400">  <figcaption>Final Lines edges</figcaption></figure>
 
 [solidWhiteRight result](https://youtu.be/1AZqIt3Sobc)
+
+
 [solidYellowLeftResult result](https://youtu.be/QbwGjLuyFL0)
 
 ### 2. Potential shortcomings with current pipeline
