@@ -1,0 +1,2 @@
+#!/usr/bin/env bash 
+source C:\Users\srubabu\AppData\Local\Continuum\miniconda3\Scripts\activate "$@"
